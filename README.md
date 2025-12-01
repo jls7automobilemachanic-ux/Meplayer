@@ -1,4 +1,4 @@
-CbotAiplayer
+MePlayer
 ========
 
 MePlayer is a lightweight and easy-to-integrate media player for your web page that supports Images, Music, Videos, and custom Fonts.
